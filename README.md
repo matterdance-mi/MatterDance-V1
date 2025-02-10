@@ -4,7 +4,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/matterdance-mi/MatterDance-V1/blob/main/logo.png?raw=true" width="30%" alt="MatterDance-V1" />
+  <img src="https://github.com/matterdance-mi/MatterDance-V1/blob/main/logo.png?raw=true" width="15%" alt="MatterDance-V1" />
 </div>
 <hr>
 
