@@ -58,9 +58,9 @@ MatterDance is not just a project but a technological revolution. By breaking th
 
 ## 2. Contact
 If you have any questions, please raise an issue or contact us at [service@matterdance.top](service@matterdance.top).
-
+<br><br>
 <hr>
-
+<br>
 ## 1. 简介
 
 MatterDance 是一个旨在打破软件与硬件界限的创新项目。我们通过将硬件与软件深度结合，重新定义技术产品的设计与生产方式，致力于用更少的输入实现更多的输出，推动资源利用的最大化和技术效率的革命性提升。
